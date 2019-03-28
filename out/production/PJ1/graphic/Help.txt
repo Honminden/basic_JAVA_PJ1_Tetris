@@ -1,0 +1,23 @@
+                          ¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö
+                                     HELP
+                          ¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö
+
+                       ========¡ö    RETURN  (0) ¡ö========
+
+                                   CONTROL
+                   ==========================================
+                              w                ROTATE
+                           1~10                MOVE TO(COLUMN)
+                              0                MOVE TO COLUMN 10
+                              r                RESTART
+                              q                EXIT
+                              x                PAUSE
+                              n                ITEM:CLEAR LINE
+                              m                ITEM:RANDOM TETROMINO
+                             *i                SHOW RANK(COMING SOON)
+
+
+                                  RESOURCES
+                   ===========================================
+                       GRAPHS CAN BE FOUND IN \resources\graphic
+                        SAVES CAN BE FOUND IN \resources\save
